@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rob!
-- 👀 I’m interested in becoming a better engineering manager who is slowly becoming more hands on with my technical skills.  I don't have a CS backgroun and I am self taught so I am learning as I go!
+- 👀 I’m interested in becoming a better engineering manager who is slowly becoming more hands on with my technical skills.  I don't have a CS background and I am self taught so I am learning as I go!
 - 🌱 I’m currently learning the MERN stack and brushing up on my JS
 - 💞️ I will be looking to collaborate once I practice a bit more!
 - 📫 How to reach me ...
