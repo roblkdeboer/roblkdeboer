@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Rob!
-- 👀 I’m interested in becoming a better engineering manager who is slowly becoming more hands on with my technical skills.  I don't have a CS background and I am self taught so I am learning as I go!
-- 🌱 I’m currently learning more about the MERN stack and brushing up on my JS
-- 💞️ I will be looking to collaborate once I practice a bit more!
+- 👀 I’m interested in becoming a better engineering manager while staying fresh with my hands on technical skills.  I don't have a CS background and I am self taught so I am learning as I go!
+- 🌱 I’m using this space to build prototypes, go through courses and generally experiment with concepts
 - 📫 You can reach me at roblkdeboer@gmail.com
 
 <!---
